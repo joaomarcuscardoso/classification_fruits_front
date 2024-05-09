@@ -5,7 +5,7 @@ export function Header() {
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
       <div className="container-fluid">
         <Link className="navbar-brand d-flex align-items-center" to="/">
-          <img src="brand_logo.png" alt="Brand Logo" width="30" height="30" className="me-2" />
+          <img src="/brand_logo.png" alt="Brand Logo" width="30" height="30" className="me-2" />
           Frutas++
         </Link>
 
